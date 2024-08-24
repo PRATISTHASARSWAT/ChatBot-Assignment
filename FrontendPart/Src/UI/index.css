@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: sans-serif;
+    color: var(--text-color);
+}
+
+:root {
+    --color-primary: #fdba74;
+    --color-secondary: grey;
+    --text-color: #292524;
+}
